@@ -1,0 +1,60 @@
+{
+    "48list": [
+        {
+            "id": 1,
+            "name": "张大伟1",
+            "phone": "13800000000",
+            "webChartNum": "davidzhang",
+            "leftTime": 3,
+            "status": 1
+        },
+        {
+            "id": 2,
+            "name": "张大伟2",
+            "phone": "13800000000",
+            "webChartNum": "davidzhang",
+            "leftTime": 5,
+            "status": 1
+        },
+        {
+            "id": 3,
+            "name": "张大伟3",
+            "phone": "13800000000",
+            "webChartNum": "davidzhang",
+            "leftTime": 3,
+            "status": 1
+        },
+        {
+            "id": 4,
+            "name": "张大伟4",
+            "phone": "13800000000",
+            "webChartNum": "davidzhang",
+            "leftTime": 3,
+            "status": 0
+        },
+        {
+            "id": 5,
+            "name": "张大伟5",
+            "phone": "13800000000",
+            "webChartNum": "davidzhang",
+            "leftTime": 3,
+            "status": 1
+        },
+        {
+            "id": 6,
+            "name": "张大伟6",
+            "phone": "13800000000",
+            "webChartNum": "davidzhang",
+            "leftTime": 3,
+            "status": 1
+        },
+        {
+            "id": 7,
+            "name": "张大伟7",
+            "phone": "13800000000",
+            "webChartNum": "davidzhang",
+            "leftTime": 3,
+            "status": 1
+        }
+    ]
+}

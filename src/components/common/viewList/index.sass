@@ -1,0 +1,40 @@
+@import 'src/css/colour.sass';
+
+.info-container
+  max-width: 500px;
+  min-width: 400px;
+  .info-header
+    color: $black;
+    margin: 10px 5px;
+  
+  .info-body
+    margin: 10px 5px;
+    .item-container
+      margin: 10px 0px;
+      border-bottom: 2px solid $light-pearl;
+      span 
+          display: inline-block;
+          height: 18px;
+          line-height: 18px;
+          padding: 5px 0px;
+      .item-container-up
+        display: flex;
+        justify-content: space-between;
+        .item-ele-container
+          display: flex;
+          span:nth-of-type(2)
+            width: 160px;
+        div:nth-of-type(1)
+          span:nth-of-type(2)
+            font-weight: bold;
+            color: $black;
+            width: 100px;
+        
+      .item-container-down
+        display: flex;
+        justify-content: space-between;
+      .item-ele-container
+        width: 200px;
+      .icons
+        padding-right: 5px;
+   
